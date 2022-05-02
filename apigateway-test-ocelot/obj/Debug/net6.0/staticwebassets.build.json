@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ffhGas3BqmiNmsvdHW0FxBfs1GvPCX/5R+C+wX2NtkI=",
+  "Source": "apigateway-test-ocelot",
+  "BasePath": "_content/apigateway-test-ocelot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
