@@ -34,9 +34,9 @@ namespace Test.Services.Web.Services
                     new ClientCredentialsTokenRequest()
                     {
                         Address = discoveryDocumentResponse.TokenEndpoint,
-                        ClientId = "test.clientId",
+                        ClientId = "test",
                         ClientSecret = "test.secret",
-                        Scope = "test.fullaccess"
+                        Scope = "test1.fullaccess"
                     }
                 );
             if (tokenResponse.IsError)

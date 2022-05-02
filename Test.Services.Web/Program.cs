@@ -36,12 +36,12 @@ builder.Services.AddAuthentication(options =>
     {
         options.SignInScheme = CookieAuthenticationDefaults.AuthenticationScheme;
         options.Authority = "https://localhost:5010/";
-        options.ClientId = "test.clientIdMvc";
+        options.ClientId = "test";
         options.ResponseType = "code";
         options.SaveTokens = true;
         options.ClientSecret = "test.secret";
         options.GetClaimsFromUserInfoEndpoint = true;
-        options.Scope.Add("test.fullaccess");
+        options.Scope.Add("test2.fullaccess");
     });
 
 var app = builder.Build();

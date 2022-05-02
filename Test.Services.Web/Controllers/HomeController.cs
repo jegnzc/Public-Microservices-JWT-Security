@@ -22,12 +22,12 @@ namespace Test.Services.Web.Controllers
         public async Task<IActionResult> Index()
         {
             var test = await _testService.GetAll();
-            var test2 = await _testService2.GetAll();
             return View();
         }
 
-        public IActionResult Privacy()
+        public async Task<IActionResult> Privacy()
         {
+            var test2 = await _testService2.GetAll();
             return View();
         }
 

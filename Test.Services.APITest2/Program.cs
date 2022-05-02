@@ -23,7 +23,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
         options.Authority = "https://localhost:5010";
-        options.Audience = "test.resource";
+        options.Audience = "test2";
     });
 
 var app = builder.Build();
