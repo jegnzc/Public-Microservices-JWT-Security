@@ -2,18 +2,23 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc.Authorization;
+using Test.Services.Web.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddHttpContextAccessor();
+
 var requireAuthenticatedUserPolicy = new AuthorizationPolicyBuilder()
     .RequireAuthenticatedUser()
     .Build();
-builder.Services.AddControllers(configure =>
+
+builder.Services.AddControllersWithViews(options =>
+    options.Filters.Add(new AuthorizeFilter(requireAuthenticatedUserPolicy)));
+
+builder.Services.AddHttpClient<ITestCoreService, TestCoreService>(c =>
 {
-    configure.Filters.Add(new AuthorizeFilter(requireAuthenticatedUserPolicy));
+    c.BaseAddress = new Uri(builder.Configuration["ApiConfigs:APITestCore:Uri"]);
 });
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

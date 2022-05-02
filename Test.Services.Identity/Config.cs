@@ -20,11 +20,16 @@ namespace Test.Services.Identity
             {
                 new ApiResource("test1", "Test 1 API")
                 {
-                    Scopes = { "test1.fullaccess" }
+                    Scopes = { "test1.read", "test1.write" }
                 },
                 new ApiResource("test2", "Test 2 API")
                 {
                     Scopes = { "test2.fullaccess" }
+                }
+                ,
+                new ApiResource("testcore", "Test Core API")
+                {
+                    Scopes = { "testcore.fullaccess" }
                 }
             };
 
@@ -33,6 +38,9 @@ namespace Test.Services.Identity
             {
                 new ApiScope("test1.fullaccess"),
                 new ApiScope("test2.fullaccess"),
+                new ApiScope("test1.read"),
+                new ApiScope("test1.write"),
+                new ApiScope("testcore.fullaccess"),
             };
 
         public static IEnumerable<Client> Clients =>
@@ -64,8 +72,17 @@ namespace Test.Services.Identity
                     AllowedGrantTypes = GrantTypes.CodeAndClientCredentials,
                     RedirectUris = { "https://localhost:5000/signin-oidc" },
                     PostLogoutRedirectUris = { "https://localhost:5000/signout-callback-oidc" },
-                    AllowedScopes = { "openid", "profile", "test1.fullaccess", "test2.fullaccess" }
-                }
+                    AllowedScopes = { "openid", "profile", "test2.fullaccess", "test1.read", "test1.write" }
+                },
+                new Client
+                {
+                    ClientId = "test2todownstreamtokenexchangeclient",
+                    ClientName = "Test 2 Core Token Exchange Client",
+                    AllowedGrantTypes = new[] { "urn:ietf:params:oauth:grant-type:token-exchange" },
+                    ClientSecrets = { new Secret("test.secret".Sha256())},
+                    AllowedScopes = {
+                        "openid", "profile", "testcore.fullaccess" }
+                },
             };
     }
 }

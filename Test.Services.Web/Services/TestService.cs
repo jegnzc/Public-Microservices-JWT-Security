@@ -36,7 +36,7 @@ namespace Test.Services.Web.Services
                         Address = discoveryDocumentResponse.TokenEndpoint,
                         ClientId = "test",
                         ClientSecret = "test.secret",
-                        Scope = "test1.fullaccess"
+                        Scope = "test1.read test1.write"
                     }
                 );
             if (tokenResponse.IsError)

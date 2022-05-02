@@ -5,11 +5,9 @@ using Microsoft.AspNetCore.Mvc.Authorization;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 var requireAuthenticatedUserPolicy = new AuthorizationPolicyBuilder()
     .RequireAuthenticatedUser()
     .Build();
-
 builder.Services.AddControllers(configure =>
 {
     configure.Filters.Add(new AuthorizeFilter(requireAuthenticatedUserPolicy));
@@ -22,15 +20,8 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
     {
         options.Authority = "https://localhost:5010";
-        options.Audience = "test1";
+        options.Audience = "testcore";
     });
-
-builder.Services.AddAuthorization(options =>
-    options.AddPolicy(
-        "CanRead",
-        policy => policy.RequireClaim("scope", "test1.read", "test1.write")
-    )
-);
 
 var app = builder.Build();
 

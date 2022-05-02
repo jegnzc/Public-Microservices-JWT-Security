@@ -13,7 +13,7 @@ namespace Test.Services.APITest2.Services
         public TestService2(HttpClient client, IHttpContextAccessor httpContextAccessor)
         {
             this.client = client;
-            this._httpContextAccessor = httpContextAccessor;
+            _httpContextAccessor = httpContextAccessor;
         }
 
         public async Task<IEnumerable<TestDTO>> GetAll()

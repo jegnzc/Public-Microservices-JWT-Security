@@ -8,6 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using Test.Services.Identity.Services;
 
 namespace Test.Services.Identity
 {
@@ -46,6 +47,7 @@ namespace Test.Services.Identity
 
             // not recommended for production - you need to store your key material somewhere secure
             builder.AddDeveloperSigningCredential();
+            builder.AddExtensionGrantValidator<TokenExchangeExtensionGrantValidator>();
         }
 
         public void Configure(IApplicationBuilder app)
