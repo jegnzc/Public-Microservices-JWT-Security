@@ -12,9 +12,11 @@
       "UpstreamPathTemplate": "/test1/weatherforecast",
       "UpstreamHttpMethod": [ "Get" ],
       "AuthenticationOptions": {
-        "AuthenticationProviderKey": "TestGatewayAuthenticationScheme",
-        "AllowedScopes": [ "test1.fullaccess" ]
-      }
+        "AuthenticationProviderKey": "TestGatewayAuthenticationScheme"
+      },
+      "DelegatingHandlers": [
+        "TokenExchangeDelegatingHandler"
+      ]
       //,
       //"AddHeadersToRequest": {
       //  "CurrentUser": "Claims[sub] > value"

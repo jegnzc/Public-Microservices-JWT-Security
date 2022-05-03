@@ -42,7 +42,7 @@ builder.Services.AddAuthentication(options =>
         options.ClientSecret = "test.secret";
         options.GetClaimsFromUserInfoEndpoint = true;
         options.Scope.Add("test2.fullaccess");
-        options.Scope.Add("test1.fullaccess");
+        //options.Scope.Add("test1.fullaccess");
         options.Scope.Add("testgateway.fullaccess");
     });
 

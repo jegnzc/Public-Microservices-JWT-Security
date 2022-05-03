@@ -80,8 +80,7 @@ namespace Test.Services.Identity
                     PostLogoutRedirectUris = { "https://localhost:5000/signout-callback-oidc" },
                     AllowedScopes = { "openid", "profile",
                         "testgateway.fullaccess",
-                        "test2.fullaccess",
-                        "test1.fullaccess" }
+                        "test2.fullaccess"}
                 },
                 new Client
                 {
@@ -91,6 +90,16 @@ namespace Test.Services.Identity
                     ClientSecrets = { new Secret("test.secret".Sha256())},
                     AllowedScopes = {
                         "openid", "profile", "testcore.fullaccess" }
+                }
+                ,
+                new Client
+                {
+                    ClientId = "gatewaytodownstreamtokenexchangeclient",
+                    ClientName = "ApiGateway Token Exchange",
+                    AllowedGrantTypes = new[] { "urn:ietf:params:oauth:grant-type:token-exchange" },
+                    ClientSecrets = { new Secret("test.secret".Sha256())},
+                    AllowedScopes = {
+                        "openid", "profile", "test1.fullaccess" }
                 },
             };
     }
