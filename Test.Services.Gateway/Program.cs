@@ -6,6 +6,8 @@ using Test.Services.Gateway.DelegatingHandlers;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddAccessTokenManagement();
+
 JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Clear();
 
 var authenticationScheme = "TestGatewayAuthenticationScheme";

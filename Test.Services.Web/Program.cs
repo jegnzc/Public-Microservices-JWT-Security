@@ -17,15 +17,17 @@ var requireAuthenticatedUserPolicy = new AuthorizationPolicyBuilder()
 builder.Services.AddControllersWithViews(options =>
     options.Filters.Add(new AuthorizeFilter(requireAuthenticatedUserPolicy)));
 
+builder.Services.AddAccessTokenManagement();
+
 builder.Services.AddHttpClient<ITestService, TestService>(c =>
 {
     c.BaseAddress = new Uri(builder.Configuration["ApiConfigs:APITest:Uri"]);
-});
+}).AddUserAccessTokenHandler();
 
 builder.Services.AddHttpClient<ITestService2, TestService2>(c =>
 {
     c.BaseAddress = new Uri(builder.Configuration["ApiConfigs:APITest2:Uri"]);
-});
+}).AddUserAccessTokenHandler();
 
 builder.Services.AddAuthentication(options =>
 {
@@ -44,6 +46,7 @@ builder.Services.AddAuthentication(options =>
         options.Scope.Add("test2.fullaccess");
         //options.Scope.Add("test1.fullaccess");
         options.Scope.Add("testgateway.fullaccess");
+        options.Scope.Add("offline_access");
     });
 
 var app = builder.Build();

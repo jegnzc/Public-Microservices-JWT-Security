@@ -74,6 +74,9 @@ namespace Test.Services.Identity
                 {
                     ClientName = "Test Client",
                     ClientId = "test",
+                    RequireConsent = false,
+                    AllowOfflineAccess = true,
+                    AccessTokenLifetime = 60,
                     ClientSecrets = { new Secret("test.secret".Sha256())},
                     AllowedGrantTypes = GrantTypes.CodeAndClientCredentials,
                     RedirectUris = { "https://localhost:5000/signin-oidc" },

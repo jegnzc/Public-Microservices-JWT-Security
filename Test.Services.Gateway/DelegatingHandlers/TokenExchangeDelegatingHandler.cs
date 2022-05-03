@@ -1,4 +1,5 @@
 ﻿using System.Runtime.CompilerServices;
+using IdentityModel.AspNetCore.AccessTokenManagement;
 using IdentityModel.Client;
 using Ocelot.Requester;
 
@@ -7,10 +8,35 @@ namespace Test.Services.Gateway.DelegatingHandlers
     public class TokenExchangeDelegatingHandler : DelegatingHandler
     {
         private readonly IHttpClientFactory _httpClientFactory;
+        private readonly IClientAccessTokenCache _clientAccessTokenCache;
 
-        public TokenExchangeDelegatingHandler(IHttpClientFactory httpClientFactory)
+        public TokenExchangeDelegatingHandler(IHttpClientFactory httpClientFactory,
+            IClientAccessTokenCache clientAccessTokenCache)
         {
             _httpClientFactory = httpClientFactory;
+            _clientAccessTokenCache = clientAccessTokenCache;
+        }
+
+        public async Task<string> GetAccessToken(string incomingToken)
+        {
+            var test = _clientAccessTokenCache;
+            var item = await _clientAccessTokenCache
+                .GetAsync("gatewaytodownstreamtokenexchangeclient_test1", new ClientAccessTokenParameters(), CancellationToken.None);
+            if (item != null)
+            {
+                return item.AccessToken;
+            }
+
+            var (accessToken, expiredIn) = await ExchangeToken(incomingToken);
+
+            await _clientAccessTokenCache.SetAsync(
+                "gatewaytodownstreamtokenexchangeclient_test1",
+                accessToken,
+                expiredIn,
+                new ClientAccessTokenParameters(),
+                CancellationToken.None
+            );
+            return accessToken;
         }
 
         protected override async Task<HttpResponseMessage> SendAsync(
@@ -19,19 +45,24 @@ namespace Test.Services.Gateway.DelegatingHandlers
             // extract token
             var incomingToken = request.Headers.Authorization.Parameter;
 
-            // exchange token
-
-            var newToken = await ExchangeToken(incomingToken);
-
-            // replace old token
-
             request.Headers.Authorization =
-                new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", newToken);
+                new System.Net.Http.Headers.AuthenticationHeaderValue(
+                    "Bearer",
+                    await GetAccessToken(incomingToken));
+
+            //// exchange token
+
+            //var newToken = await ExchangeToken(incomingToken);
+
+            //// replace old token
+
+            //request.Headers.Authorization =
+            //    new System.Net.Http.Headers.AuthenticationHeaderValue("Bearer", newToken);
 
             return await base.SendAsync(request, cancellationToken);
         }
 
-        private async Task<string> ExchangeToken(string? incomingToken)
+        private async Task<(string, int)> ExchangeToken(string? incomingToken)
         {
             var client = _httpClientFactory.CreateClient();
 
@@ -64,7 +95,7 @@ namespace Test.Services.Gateway.DelegatingHandlers
                 throw new Exception(tokenResponse.Error);
             }
 
-            return tokenResponse.AccessToken;
+            return (tokenResponse.AccessToken, tokenResponse.ExpiresIn);
         }
     }
 }
