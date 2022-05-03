@@ -20,7 +20,7 @@ namespace Test.Services.Identity
             {
                 new ApiResource("test1", "Test 1 API")
                 {
-                    Scopes = { "test1.read", "test1.write" }
+                    Scopes = { "test1.fullaccess" }
                 },
                 new ApiResource("test2", "Test 2 API")
                 {
@@ -81,8 +81,7 @@ namespace Test.Services.Identity
                     AllowedScopes = { "openid", "profile",
                         "testgateway.fullaccess",
                         "test2.fullaccess",
-                        "test1.read",
-                        "test1.write" }
+                        "test1.fullaccess" }
                 },
                 new Client
                 {
