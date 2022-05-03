@@ -62,7 +62,7 @@ namespace Test.Services.Web.Services
         public async Task<IEnumerable<TestDTO>> GetAll()
         {
             client.SetBearerToken(await GetToken());
-            var response = await client.GetAsync("WeatherForecast");
+            var response = await client.GetAsync("weatherforecast");
             var responseContent = await response.Content.ReadFromJsonAsync<IEnumerable<TestDTO>>();
             if (!response.IsSuccessStatusCode)
             {

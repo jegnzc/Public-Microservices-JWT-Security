@@ -21,7 +21,7 @@ namespace Test.Services.APITest2.Services
             var token = await _httpContextAccessor.HttpContext.GetTokenAsync("access_token");
             client.SetBearerToken(token);
 
-            var response = await client.GetAsync("WeatherForecast");
+            var response = await client.GetAsync("weatherforecast");
             var responseContent = await response.Content.ReadFromJsonAsync<IEnumerable<TestDTO>>();
             return responseContent ?? Array.Empty<TestDTO>();
         }

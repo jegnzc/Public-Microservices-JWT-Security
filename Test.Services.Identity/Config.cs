@@ -31,6 +31,11 @@ namespace Test.Services.Identity
                 {
                     Scopes = { "testcore.fullaccess" }
                 }
+                ,
+                new ApiResource("testgateway", "Test API Gateway")
+                {
+                    Scopes = { "testgateway.fullaccess" }
+                }
             };
 
         public static IEnumerable<ApiScope> ApiScopes =>
@@ -41,6 +46,7 @@ namespace Test.Services.Identity
                 new ApiScope("test1.read"),
                 new ApiScope("test1.write"),
                 new ApiScope("testcore.fullaccess"),
+                new ApiScope("testgateway.fullaccess"),
             };
 
         public static IEnumerable<Client> Clients =>
@@ -72,7 +78,11 @@ namespace Test.Services.Identity
                     AllowedGrantTypes = GrantTypes.CodeAndClientCredentials,
                     RedirectUris = { "https://localhost:5000/signin-oidc" },
                     PostLogoutRedirectUris = { "https://localhost:5000/signout-callback-oidc" },
-                    AllowedScopes = { "openid", "profile", "test2.fullaccess", "test1.read", "test1.write" }
+                    AllowedScopes = { "openid", "profile",
+                        "testgateway.fullaccess",
+                        "test2.fullaccess",
+                        "test1.read",
+                        "test1.write" }
                 },
                 new Client
                 {

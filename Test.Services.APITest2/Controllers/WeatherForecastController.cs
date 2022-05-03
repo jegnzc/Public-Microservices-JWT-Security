@@ -25,7 +25,8 @@ namespace Test.Services.APITest2.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public async Task<IEnumerable<WeatherForecast>> Get()
         {
-            var user = User.Claims.FirstOrDefault(c => c.Type == "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier")?.Value;
+            //var user = User.Claims.FirstOrDefault(c => c.Type == "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/nameidentifier")?.Value;
+            var user = HttpContext.Request.Headers["CurrentUser"][0];
             var callCoreServiceTest = await _testCoreService.GetAll();
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
