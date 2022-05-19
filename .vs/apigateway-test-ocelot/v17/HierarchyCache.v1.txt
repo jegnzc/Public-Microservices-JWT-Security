@@ -1,0 +1,771 @@
+﻿++Solution 'apigateway-test-ocelot' ‎(6 of 6 projects)
+i:{00000000-0000-0000-0000-000000000000}:apigateway-test-ocelot.sln
+++Test.Services.APITestCore
+i:{20160c35-9ed3-4e62-a9b3-a403763d40e9}:Test.Services.APITestCore
+++Connected Services 
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:>1331
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:>1330
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:>1336
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:>2385
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:>2347
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:>2569
+++Dependencies
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:>1329
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:>1327
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:>1328
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:>2384
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:>2346
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:>2571
+++Properties
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\properties\
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest\properties\
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\properties\
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitestcore\properties\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\properties\
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.gateway\properties\
+++launchSettings.json
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\properties\launchsettings.json
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest\properties\launchsettings.json
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\properties\launchsettings.json
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitestcore\properties\launchsettings.json
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\properties\launchsettings.json
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.gateway\properties\launchsettings.json
+++Controllers
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\controllers\
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest\controllers\
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\controllers\
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitestcore\controllers\
+++WeatherForecastController.cs
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest\controllers\weatherforecastcontroller.cs
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\controllers\weatherforecastcontroller.cs
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitestcore\controllers\weatherforecastcontroller.cs
+++appsettings.json
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\appsettings.json
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest\appsettings.json
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\appsettings.json
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitestcore\appsettings.json
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.gateway\appsettings.json
+++appsettings.Development.json
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\appsettings.development.json
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest\appsettings.development.json
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\appsettings.development.json
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitestcore\appsettings.development.json
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.gateway\appsettings.development.json
+++Program.cs
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\program.cs
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest\program.cs
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\program.cs
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitestcore\program.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\program.cs
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.gateway\program.cs
+++WeatherForecast.cs
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest\weatherforecast.cs
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\weatherforecast.cs
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitestcore\weatherforecast.cs
+++No service dependencies discovered
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:>1333
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:>1332
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:>1337
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:>2386
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:>2348
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:>2570
+++Analyzers
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:analyzers
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:analyzers
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:analyzers
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:analyzers
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:analyzers
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:analyzers
+++Frameworks
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:frameworks
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:frameworks
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:frameworks
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:frameworks
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:frameworks
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:frameworks
+++Packages
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:packages
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:packages
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:packages
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:packages
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:packages
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:packages
+++Microsoft.AspNetCore.Analyzers
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.0\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\microsoft.aspnetcore.app
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest\microsoft.aspnetcore.app
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\microsoft.aspnetcore.app
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitestcore\microsoft.aspnetcore.app
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\microsoft.aspnetcore.app
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.gateway\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\microsoft.netcore.app
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest\microsoft.netcore.app
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\microsoft.netcore.app
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitestcore\microsoft.netcore.app
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\microsoft.netcore.app
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.gateway\microsoft.netcore.app
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.4)
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:>1362
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:>1376
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:>2458
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:>2696
+++Swashbuckle.AspNetCore (6.2.3)
+i:{06b0c5e7-40d2-49bb-80d8-312a7aeae7e3}:>1360
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:>1375
+i:{a7c255ba-9f3d-449d-9bc9-8dcb1707a828}:>2397
+++Test.Services.APITest
+i:{20160c35-9ed3-4e62-a9b3-a403763d40e9}:Test.Services.APITest
+++Test.Services.APITest2
+i:{20160c35-9ed3-4e62-a9b3-a403763d40e9}:Test.Services.APITest2
+++Models
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\models\
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\models\
+++Services
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\services\
+i:{00000000-0000-0000-0000-000000000000}:Services
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\services\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\services\
+++ITestCoreService.cs
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\services\itestcoreservice.cs
+++TestCoreService.cs
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\services\testcoreservice.cs
+++ErrorViewModel.cs
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\models\errorviewmodel.cs
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\models\errorviewmodel.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\home\errorviewmodel.cs
+++TestDTO.cs
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\models\testdto.cs
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.apitest2\models\testdto.cs
+++IdentityModel (6.0.0)
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:>1364
+i:{b055ccf6-07f8-44ac-ae71-982c76946bd8}:>2472
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:>2718
+++apigateway-test-ocelot
+++ocelot.json
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.gateway\ocelot.json
+++Ocelot (18.0.0)
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:>2635
+++Test.Services.Web
+i:{00000000-0000-0000-0000-000000000000}:Test.Services.Web
+++wwwroot
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\
+++AuthenticationController.cs
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\controllers\authenticationcontroller.cs
+++HomeController.cs
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\controllers\homecontroller.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\home\homecontroller.cs
+++ITestService.cs
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\services\itestservice.cs
+++ITestService2.cs
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\services\itestservice2.cs
+++TestService.cs
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\services\testservice.cs
+++TestService2.cs
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\services\testservice2.cs
+++Views
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\views\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\
+++Home
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\views\home\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\home\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\home\
+++Index.cshtml
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\views\home\index.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\consent\index.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\diagnostics\index.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\grants\index.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\home\index.cshtml
+++Privacy.cshtml
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\views\home\privacy.cshtml
+++Shared
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\views\shared\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\shared\
+++_Layout.cshtml
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\views\shared\_layout.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\views\shared\error.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\views\_viewimports.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\views\_viewstart.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\_viewstart.cshtml
+++css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\css\
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\css\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\js\
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\js\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\js\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\
+++favicon.ico
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\favicon.ico
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\favicon.ico
+++_Layout.cshtml.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\views\shared\_layout.cshtml.css
+++Microsoft.AspNetCore.Authentication.OpenIdConnect (6.0.4)
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:>1363
+++site.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\css\site.css
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\css\site.css
+++site.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\js\site.js
+++bootstrap
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\
+++jquery
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\jquery\
+++jquery-validation
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery-validation-unobtrusive\
+++dist
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery\dist\
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery-validation\dist\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\jquery\dist\
+++LICENSE
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery\license.txt
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\jquery\license.txt
+++LICENSE.md
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery\dist\jquery.js
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery\dist\jquery.min.js
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\jquery\dist\jquery.min.map
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Test.Services.Identity
+i:{20160c35-9ed3-4e62-a9b3-a403763d40e9}:Test.Services.Identity
+++Quickstart
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\
+++TokenExchangeExtensionGrantValidator.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\services\tokenexchangeextensiongrantvalidator.cs
+++Config.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\config.cs
+++Startup.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\startup.cs
+++tempkey.jwk
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\tempkey.jwk
+++updateUI.ps1
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\updateui.ps1
+++icon.jpg
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\icon.jpg
+++icon.png
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\icon.png
+++Account
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\account\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\account\
+++Consent
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\consent\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\consent\
+++Device
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\device\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\device\
+++Diagnostics
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\diagnostics\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\diagnostics\
+++Grants
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\grants\
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\grants\
+++Extensions.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\extensions.cs
+++SecurityHeadersAttribute.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\securityheadersattribute.cs
+++TestUsers.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\testusers.cs
+++IdentityServer4 (4.0.0)
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:>2359
+++Microsoft.AspNetCore.Authentication.Google (3.1.5)
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:>2358
+++Serilog.AspNetCore (3.2.0)
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:>2357
+++site.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\css\site.scss
+++signin-redirect.js
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\js\signin-redirect.js
+++signout-redirect.js
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\js\signout-redirect.js
+++AccountController.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\account\accountcontroller.cs
+++AccountOptions.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\account\accountoptions.cs
+++ExternalController.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\account\externalcontroller.cs
+++ExternalProvider.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\account\externalprovider.cs
+++LoggedOutViewModel.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\account\loggedoutviewmodel.cs
+++LoginInputModel.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\account\logininputmodel.cs
+++LoginViewModel.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\account\loginviewmodel.cs
+++LogoutInputModel.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\account\logoutinputmodel.cs
+++LogoutViewModel.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\account\logoutviewmodel.cs
+++RedirectViewModel.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\account\redirectviewmodel.cs
+++ConsentController.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\consent\consentcontroller.cs
+++ConsentInputModel.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\consent\consentinputmodel.cs
+++ConsentOptions.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\consent\consentoptions.cs
+++ConsentViewModel.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\consent\consentviewmodel.cs
+++ProcessConsentResult.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\consent\processconsentresult.cs
+++ScopeViewModel.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\consent\scopeviewmodel.cs
+++DeviceAuthorizationInputModel.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\device\deviceauthorizationinputmodel.cs
+++DeviceAuthorizationViewModel.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\device\deviceauthorizationviewmodel.cs
+++DeviceController.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\device\devicecontroller.cs
+++DiagnosticsController.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\diagnostics\diagnosticscontroller.cs
+++DiagnosticsViewModel.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\diagnostics\diagnosticsviewmodel.cs
+++GrantsController.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\grants\grantscontroller.cs
+++GrantsViewModel.cs
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\quickstart\grants\grantsviewmodel.cs
+++AccessDenied.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\account\accessdenied.cshtml
+++LoggedOut.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\account\loggedout.cshtml
+++Login.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\account\login.cshtml
+++Logout.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\account\logout.cshtml
+++Success.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\device\success.cshtml
+++UserCodeCapture.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\device\usercodecapture.cshtml
+++UserCodeConfirmation.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\device\usercodeconfirmation.cshtml
+++_Nav.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\shared\_nav.cshtml
+++_ScopeListItem.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\shared\_scopelistitem.cshtml
+++_ValidationSummary.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\shared\_validationsummary.cshtml
+++Redirect.cshtml
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\views\shared\redirect.cshtml
+++scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\
+++README.md
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\readme.md
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\jquery\readme.md
+++site.min.css
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\css\site.min.css
+++mixins
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\
+++utilities
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\
+++vendor
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\vendor\
+++_alert.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_alert.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_alert.scss
+++_badge.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_badge.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_badge.scss
+++_breadcrumb.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_breadcrumb.scss
+++_button-group.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_button-group.scss
+++_buttons.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_buttons.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_buttons.scss
+++_card.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_card.scss
+++_carousel.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_carousel.scss
+++_close.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_close.scss
+++_code.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_code.scss
+++_custom-forms.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_custom-forms.scss
+++_dropdown.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_dropdown.scss
+++_forms.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_forms.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_forms.scss
+++_functions.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_functions.scss
+++_grid.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_grid.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_grid.scss
+++_images.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_images.scss
+++_input-group.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_input-group.scss
+++_jumbotron.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_jumbotron.scss
+++_list-group.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_list-group.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_list-group.scss
+++_media.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_media.scss
+++_mixins.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_mixins.scss
+++_modal.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_modal.scss
+++_nav.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_nav.scss
+++_navbar.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_navbar.scss
+++_pagination.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_pagination.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_pagination.scss
+++_popover.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_popover.scss
+++_print.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_print.scss
+++_progress.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_progress.scss
+++_reboot.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_reboot.scss
+++_root.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_root.scss
+++_spinners.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_spinners.scss
+++_tables.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_tables.scss
+++_toasts.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_toasts.scss
+++_tooltip.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_tooltip.scss
+++_transitions.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_transitions.scss
+++_type.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_type.scss
+++_utilities.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_utilities.scss
+++_variables.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\_variables.scss
+++bootstrap.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\bootstrap.scss
+++bootstrap-grid.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\bootstrap-grid.scss
+++bootstrap-reboot.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\bootstrap-reboot.scss
+++_background-variant.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_background-variant.scss
+++_border-radius.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_border-radius.scss
+++_box-shadow.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_box-shadow.scss
+++_breakpoints.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_breakpoints.scss
+++_caret.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_caret.scss
+++_clearfix.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_clearfix.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_clearfix.scss
+++_deprecate.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_deprecate.scss
+++_float.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_float.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_float.scss
+++_gradients.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_gradients.scss
+++_grid-framework.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_grid-framework.scss
+++_hover.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_hover.scss
+++_image.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_image.scss
+++_lists.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_lists.scss
+++_nav-divider.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_nav-divider.scss
+++_reset-text.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_reset-text.scss
+++_resize.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_resize.scss
+++_screen-reader.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_screen-reader.scss
+++_size.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_size.scss
+++_table-row.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_table-row.scss
+++_text-emphasis.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_text-emphasis.scss
+++_text-hide.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_text-hide.scss
+++_text-truncate.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_text-truncate.scss
+++_transition.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_transition.scss
+++_visibility.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\mixins\_visibility.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_visibility.scss
+++_align.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_align.scss
+++_background.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_background.scss
+++_borders.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_borders.scss
+++_display.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_display.scss
+++_embed.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_embed.scss
+++_flex.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_flex.scss
+++_overflow.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_overflow.scss
+++_position.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_position.scss
+++_screenreaders.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_screenreaders.scss
+++_shadows.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_shadows.scss
+++_sizing.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_sizing.scss
+++_spacing.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_spacing.scss
+++_stretched-link.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_stretched-link.scss
+++_text.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\utilities\_text.scss
+++_rfs.scss
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\bootstrap\scss\vendor\_rfs.scss
+++jquery.slim.js
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\jquery\dist\jquery.slim.js
+++jquery.slim.min.js
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\jquery\dist\jquery.slim.min.js
+++jquery.slim.min.map
+i:{c82ca590-dba6-4aed-914f-ed28221ccea1}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.identity\wwwroot\lib\jquery\dist\jquery.slim.min.map
+++NewFolder1
+++Gateway
+i:{00000000-0000-0000-0000-000000000000}:Gateway
+++Resources.resx
+++Resources.Designer.cs
+++Solution 'apigateway-test-ocelot' ‎(7 of 7 projects)
+++Test.Services.Gateway
+i:{cfa53764-a9e3-49b1-8d96-1f4697fd6f60}:Test.Services.Gateway
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.100\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++NewFolder
+++DelegatingHandlers
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.gateway\delegatinghandlers\
+++TokenExchangeDelegatingHandler.cs
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:c:\users\jg\development\ocelot-identity-test\demo-ocelot-identityserver\apigateway-test-ocelot\test.services.gateway\delegatinghandlers\tokenexchangedelegatinghandler.cs
+++IdentityModel.AspNetCore (4.2.0)
+i:{4e5d3d67-0cd4-48dc-b883-90fe4d353594}:>2721
+i:{1e757a48-80b9-4099-b6f7-d905c05ec2c9}:>2724

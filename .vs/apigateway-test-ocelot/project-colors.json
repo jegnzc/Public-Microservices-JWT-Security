@@ -20,7 +20,27 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "c82ca590-dba6-4aed-914f-ed28221ccea1": {
+      "ProjectGuid": "c82ca590-dba6-4aed-914f-ed28221ccea1",
+      "DisplayName": "Test.Services.Identity",
+      "ColorIndex": 3
+    },
+    "a7c255ba-9f3d-449d-9bc9-8dcb1707a828": {
+      "ProjectGuid": "a7c255ba-9f3d-449d-9bc9-8dcb1707a828",
+      "DisplayName": "Test.Services.APITestCore",
+      "ColorIndex": 4
+    },
+    "5c935891-2b4e-4981-92cf-f9b52c2f76b5": {
+      "ProjectGuid": "5c935891-2b4e-4981-92cf-f9b52c2f76b5",
+      "DisplayName": "apigateway-test-ocelot",
+      "ColorIndex": 5
+    },
+    "1e757a48-80b9-4099-b6f7-d905c05ec2c9": {
+      "ProjectGuid": "1e757a48-80b9-4099-b6f7-d905c05ec2c9",
+      "DisplayName": "Test.Services.Gateway",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 7
 }
